@@ -1,14 +1,14 @@
 /*********************************************** FONT ************************************************************/
 @font-face {
     font-family: "Ubuntu";
-    src: url("font/Ubuntu-Bold.ttf");
+    src: url("../font/Ubuntu-Bold.ttf");
 }
 /********************************************** GENERAL *********************************************************/
 * {
     box-sizing: border-box;
 }
 body {
-    background: url(images/bkg.png);
+    background: url(../images/bkg.png);
     background-attachment: fixed;
     background-size: 20%;
     font-family: "Ubuntu", Arial, Helvetica, sans-serif;
